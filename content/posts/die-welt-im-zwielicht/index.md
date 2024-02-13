@@ -5,4 +5,38 @@ draft = false
 pinned = false
 image = "blindenmuseum_richtig.jpg"
 +++
+**Berühren erlaubt**
+
 xxxx
+
+
+
+**Die Welt im Zwielicht**
+
+xxxx
+
+
+
+Zitat
+
+
+
+Bild 2
+
+
+
+
+
+**Fast wie im Kino**
+
+xxxx
+
+
+
+Infokasten
+
+
+
+
+
+Schluss
