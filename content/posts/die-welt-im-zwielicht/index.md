@@ -4,13 +4,13 @@ date = "2024-02-13"
 draft = false
 pinned = false
 image = "blindenmuseum_richtig.jpg"
-description = "lead, lead, lead, lead, lead, lead, lead, lead, lead, lead, lead, lead, lead, lead, lead, lead, lead, lead, lead, lead, lead, lead, lead, lead, lead, lead, lead, lead, lead, lead, lead, lead, lead, lead, lead, lead, lead, lead, lead, lead, lead, lead, lead, lead, lead, lead, lead, lead, lead, lead, lead, lead, lead, lead, lead, lead, lead, lead, lead, lead, lead, lead, lead, lead, lead, lead, lead, lead, lead, lead, lead, lead, lead, lead, lead, lead, lead, lead, lead, lead, lead, lead, lead, lead, lead, lead, lead, lead, lead, lead, lead, lead, lead, lead, lead, lead, lead, lead, lead, lead, lead, lead, lead, lead, lead, lead, lead, lead, lead, lead, lead, lead, lead, lead, lead, lead, lead, lead, lead, lead, lead, lead, lead, lead, lead, lead, lead, lead, lead, lead, lead, lead, lead, lead, lead, lead, lead, lead, lead, lead, lead, lead, lead, lead"
+description = "lead, lead, lead, lead, lead, lead, lead, lead, lead, lead, lead, lead, lead, lead, lead, lead, lead, lead, lead, lead, lead, lead, lead, lead, lead, lead, lead, lead, lead, lead, lead, lead, lead, lead, lead, lead, lead, lead, lead, lead, lead, lead, lead, lead, lead, lead, lead, lead, lead, lead, lead, lead, lead, lead, lead, lead, lead, lead, lead, lead, lead, lead, lead, lead, lead, lead, lead, lead, lead, lead, lead, lead, lead, lead, lead, lead, lead, lead, lead, lead, lead, lead, lead, lead, lead, lead, lead, lead, lead, lead, lead, lead, lead, lead, lead, lead, lead, lead, lead"
 +++
+Mitten in einem Wohnquartier von Zollikofen steht es seit 2020 im neu-en Kleid: Das Schweizerische Blindenmuseum. «Anders sehen» auch wenn alles dunkel ist? Das ist in diesem einzigartigen Lernort dank prak-tischen Selbsterfahrungen und vielen Sinneseindrücken möglich. Für ei-nen Moment lässt man alle Farben hinter sich, experimentiert mit einem Blindenstock und versucht sich in der Dunkelheit zu orientieren. 
+
 **Berühren erlaubt**
 
 xxxx
-
-
 
 **Die Welt im Zwielicht**
 
@@ -24,10 +24,6 @@ Zitat
 
 Bild 2
 
-
-
-
-
 **Fast wie im Kino**
 
 xxxx
@@ -35,8 +31,6 @@ xxxx
 
 
 Infokasten
-
-
 
 
 
