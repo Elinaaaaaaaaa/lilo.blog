@@ -10,17 +10,15 @@ Mitten in einem Wohnquartier von Zollikofen steht es seit 2020 im neu-en Kleid: 
 
 **Berühren erlaubt**
 
+![Von aussen kaum erkennbar – das Blindenmuseum in Zollikofen (Bild: Elina Stähli)](blindenmuseum_richtig.jpg)
+
 xxxx
 
 **Die Welt im Zwielicht**
 
 xxxx
 
-
-
 Zitat
-
-
 
 Bild 2
 
@@ -28,10 +26,6 @@ Bild 2
 
 xxxx
 
-
-
 Infokasten
-
-
 
 Schluss
