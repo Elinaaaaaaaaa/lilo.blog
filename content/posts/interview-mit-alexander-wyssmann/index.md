@@ -15,4 +15,4 @@ Carla Guggisberg, Elina Stähli
 
 
 
-![](alexander-wyssmann.jpg "Alexander Wyssmann mit seinem treuen Begleiter Garrit. (Bild: Elina Stähli)")
+![Alexander Wyssmann mit seinem treuen Begleiter Garrit. (Bild: Elina Stähli)](alexander-wyssmann.jpg)
