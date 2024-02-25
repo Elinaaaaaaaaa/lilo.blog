@@ -7,6 +7,8 @@ image = "alexander-wyssmann.jpg"
 +++
 ### ”Ich bin trotzdem voller Bilder”
 
+
+
 Ein Unfall nahm ihm mit 20 Jahren das Augenlicht. Der leidenschaftliche Jazzpianist und Lehrer Alexander Wyssmann ist seither blind, lebt aber nicht in der Dunkelheit. 
 
 
