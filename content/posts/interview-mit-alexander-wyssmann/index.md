@@ -1,7 +1,7 @@
 +++
 title = "«Ich bin trotzdem voller Bilder»"
 date = "2024-02-26"
-draft = false
+draft = true
 pinned = false
 image = "alexander-wyssmann.jpg"
 +++
