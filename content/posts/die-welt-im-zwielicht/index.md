@@ -14,8 +14,6 @@ description = ""
 
 Elina Stähli, Carla Guggisberg
 
-
-
 ![Von aussen kaum erkennbar – das Blindenmuseum in Zollikofen (Bild: Elina Stähli)](blindenmuseum.jpg)
 
 Rostbraun gefärbt, kaum Fenster, das moderne Gebäude passt nicht ins Bild. Im ersten Augenblick erinnert es eher an einen Lagerraum, eine Notunterkunft oder an einen Kindergarten. Doch wer einen Blick ins Innere des Gebäudes wirft, merkt bald, dass es sich um ein Museum handelt. Zwischen Wohnhäusern versteckt und umgeben von Bäumen und Wiese findet das Schweizerische Blindenmuseum in Zollikofen seinen Platz. Ein Museum etwas anderer Art: Teure Gemälde, Skulpturen oder Diamanten hinter Glaswänden sind nicht zu finden. Stattdessen gestaltet das Museum einen Ort, an dem Berühren erlaubt ist und Barrierefreiheit als Selbstverständlichkeit gilt. Nach dem Leitsatz «anders sehen», wird den Museumsbesuchenden das Thema Blindheit sichtbar gemacht und ein Verständnis für Menschen, die nicht oder nur eingeschränkt sehen können, vermittelt.
@@ -55,4 +53,5 @@ Im November 2023 hat das Museum den «Prix de l’accessibilité» gewonnen und 
 ### Berühren erlaubt
 
 Der vierte und letzte Raum des Museums bietet Platz für viele eigene Erfahrungen. Hier kann man in die Entdeckungswelt eintauchen und eigene Sinneserfahrungen machen. Vertieft schreiben die Museumsbesuchenden auf Schreibmaschinen, versuchen den richtigen Duft zu erraten oder ertasten Gegenstände. Die Spezialbrillen, welche eine Sehbeeinträchtigung vortäuschen, beeindrucken und regen zum Nachdenken an. Wer sich mit einem Blindenstock und einer Augenbinde nach draussen wagt, merkt schnell wie schwierig es ist, die minimalen Unterschiede der Bodenbeschaffenheit wahrzunehmen. Gefühle von Hilflosigkeit und Unsicherheit machen sich breit. Sobald der Rundgang zu Ende ist und man wieder auf die weissen Leitlinien beim Museumseingang tritt, ist man um eine spannende Erfahrung reicher. 
+
 Die Museumsbesuchenden sind sich einig: Das Blindenmuseum ist ein Ort, den man nicht gesehen haben muss und trotzdem sehenswert ist.
