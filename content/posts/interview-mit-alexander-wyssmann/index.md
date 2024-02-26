@@ -5,11 +5,7 @@ draft = false
 pinned = false
 image = "alexander-wyssmann.jpg"
 +++
-{{</lead>}}
-
-Ein Unfall nahm ihm mit 20 Jahren das Augenlicht. Der leidenschaftliche Jazzpianist und Lehrer Alexander Wyssmann ist seither blind, lebt aber nicht in der Dunkelheit. 
-
-{{</lead>}}
+{{</lead>}} Ein Unfall nahm ihm mit 20 Jahren das Augenlicht. Der leidenschaftliche Jazzpianist und Lehrer Alexander Wyssmann ist seither blind, lebt aber nicht in der Dunkelheit. {{</lead>}}
 
 Carla Guggisberg, Elina Stähli
 
@@ -51,8 +47,4 @@ Wenn ich aus dem Haus gehe, nehme ich meistens meinen Hund oder den Blindenstock
 
 Ich wünsche mir, dass die Barrierefreiheit als Selbstverständlichkeit angeschaut wird und Menschen mit Beeinträchtigungen sich im Alltag frei bewegen können. An einigen Orten gibt es das zwar, aber das ist nicht so einfach. Z.B. Internetbestellungen oder tabellarische Darstellungen, die nicht barrierefrei sind, erschweren den Alltag. 
 
-{{<box>}}
-
-Alexander Wyssmann ist im Jahr 1969 geboren und wuchs in einer Handwerkerfamilie auf. Schon als Kind interessierte er sich für Musik. Im Jahr 2009 schloss er das Studium als Jazzpianist an der Haute École in Lausanne ab. Seit dem Jahr 2005 spielt er Piano in der eigenen Jazzband “twilight-trio”. Heute wohnt er mit seiner Partnerin und seinem Hund Garrit in Bern und arbeitet als Lehrer und Heilpädagoge an der Blindenschule Zollikofen.
-
-{{<box>}}
+{{<box>}} Alexander Wyssmann ist im Jahr 1969 geboren und wuchs in einer Handwerkerfamilie auf. Schon als Kind interessierte er sich für Musik. Im Jahr 2009 schloss er das Studium als Jazzpianist an der Haute École in Lausanne ab. Seit dem Jahr 2005 spielt er Piano in der eigenen Jazzband “twilight-trio”. Heute wohnt er mit seiner Partnerin und seinem Hund Garrit in Bern und arbeitet als Lehrer und Heilpädagoge an der Blindenschule Zollikofen. {{<box>}}
