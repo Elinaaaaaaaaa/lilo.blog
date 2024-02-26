@@ -7,7 +7,7 @@ image = "alexander-wyssmann.jpg"
 +++
 {{</lead>}} 
 
-Ein Unfall nahm ihm mit 20 Jahren das Augenlicht. Der leidenschaftliche Jazzpianist und Lehrer Alexander Wyssmann ist seither blind, lebt aber nicht in der Dunkelheit. 
+Ein Unfall nahm ihm mit 20 Jahren das Augenlicht. Der leidenschaftliche Jazzpianist und Lehrer Alexander Wyssmann ist seither blind, lebt aber nicht in der Dunkelheit.
 
 {{</lead>}}
 
@@ -17,7 +17,7 @@ Carla Guggisberg, Elina Stähli
 
 In einem Quartier, etwas ausserhalb der Stadt Bern, wohnt der 54- jährige Alexander Wyssmann. Bei einem Unfall in der Rekrutenschule verlor er sein Augenlicht. Seither ist er blind, lebt aber, wie er sagt, nicht in der Dunkelheit, sondern eher im Zwielicht. Neben seiner Arbeit als Lehrer an der Blindenschule Zollikofen spielt er leidenschaftlich Klavier. 
 
-#### **Wir haben im Museum das Zitat «Ich habe den Eindruck, dass ich gleich gut sehe wie früher, als ich noch mit den Augen sah – es sind einfach andere Kanäle, die ich nutze.» von Ihnen gelesen, können Sie uns erklären, was Sie damit meinen?**
+#### **Wir haben im Museum das Zitat «Ich habe den Eindruck, dass ich gleich gut sehe wie früher, als ich noch mit den Augen sah – es sind einfach andere Kanäle, die ich nutze» von Ihnen gelesen, können Sie uns erklären, was Sie damit meinen?**
 
 Das Sehen ist einfach einer von fünf Sinnen. Die meisten Menschen stellen sich vor, dass im Kopf dann ein Defizit herrscht, aber das ist nicht so. Man gewöhnt sich daran und der Kopf stellt sich um. Die Bilder, die zuvor durchs Sehen entstanden sind, bilden sich jetzt durch die anderen Sinne, die zusammenarbeiten und so nehme ich Dinge wahr. Viele denken, dass es einfach finster ist, aber das ist nicht so, ich bin voller Bilder. Ich träume immer noch mit Bildern, ich weiss aber, dass es sich verändert hat. Also wenn ich träume, dann brauche ich auch dort Hilfsmittel, ich bin auch im Traum blind.
 
