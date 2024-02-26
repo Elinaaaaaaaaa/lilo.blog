@@ -32,6 +32,8 @@ Der dunkelblonde Musiker absolvierte später mit grosser Freude ein Klavierstudi
 
 > «Blinde Menschen leben nicht, wie viele glauben, in der Finsternis, sondern im Zwielicht.» (Alexander Wyssmann)
 
+
+
 ![Alexander Wyssmann mit seinem treuen Begleiter Garrit. (Bild: Elina Stähli)](alexander-wyssmann.jpg)
 
 ### Ohren auf
