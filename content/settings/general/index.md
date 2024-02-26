@@ -1,7 +1,7 @@
 +++
 headless = true
 title = "Elina Stähli"
-description = ":)"
+description = "."
 footerLeft = "Powered by 💜 [Lilo.page](https://www.lilo.page)"
 footerRight = ""
 +++
