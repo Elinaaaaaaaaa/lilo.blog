@@ -1,5 +1,5 @@
 +++
-title = "Die Welt im Zwielicht"
+title = "Anders sehen"
 date = "2024-02-26"
 draft = false
 pinned = false
