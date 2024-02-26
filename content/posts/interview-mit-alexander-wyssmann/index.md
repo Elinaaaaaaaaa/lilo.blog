@@ -11,7 +11,7 @@ Ein Unfall nahm ihm mit 20 Jahren das Augenlicht. Der leidenschaftliche Jazzpian
 
 {{</lead>}}
 
-Carla Guggisberg, Elina Stähli
+Elina Stähli, Carla Guggisberg
 
 ![Alexander Wyssmann mit seinem treuen Begleiter Garrit. (Bild: Elina Stähli)](alexander-wyssmann.jpg)
 
@@ -19,7 +19,7 @@ In einem Quartier, etwas ausserhalb der Stadt Bern, wohnt der 54- jährige Alexa
 
 #### **Wir haben im Museum das Zitat «Ich habe den Eindruck, dass ich gleich gut sehe wie früher, als ich noch mit den Augen sah – es sind einfach andere Kanäle, die ich nutze» von Ihnen gelesen, können Sie uns erklären, was Sie damit meinen?**
 
-Das Sehen ist einfach einer von fünf Sinnen. Die meisten Menschen stellen sich vor, dass im Kopf dann ein Defizit herrscht, aber das ist nicht so. Man gewöhnt sich daran und der Kopf stellt sich um. Die Bilder, die zuvor durchs Sehen entstanden sind, bilden sich jetzt durch die anderen Sinne, die zusammenarbeiten und so nehme ich Dinge wahr. Viele denken, dass es einfach finster ist, aber das ist nicht so, ich bin voller Bilder. Ich träume immer noch mit Bildern, ich weiss aber, dass es sich verändert hat. Also wenn ich träume, dann brauche ich auch dort Hilfsmittel, ich bin auch im Traum blind.
+Das Sehen ist einfach einer von fünf Sinnen. Die meisten Menschen stellen sich vor, dass im Kopf dann ein Defizit herrscht, aber das ist nicht so. Man gewöhnt sich daran und der Kopf stellt sich um. Die Bilder, die zuvor durchs Sehen entstanden sind, bilden sich jetzt durch die anderen Sinne und so nehme ich Dinge wahr. Viele denken, dass es einfach finster ist, aber das ist nicht so, ich bin voller Bilder. Ich träume immer noch mit Bildern, ich weiss aber, dass es sich verändert hat. Also wenn ich träume, dann brauche ich auch dort Hilfsmittel, ich bin auch im Traum blind.
 
 > «Ich hatte nie das Gefühl, ich hätte weniger Bilder im Kopf. (Alexander Wyssmann)
 
@@ -30,7 +30,7 @@ Mit dem Blindenmuseum wollte man zwei Fliegen mit einem Klatsch schlagen. Tägli
 
 #### **Wie war die Zeit nach der Erblindung für Sie und wie haben Sie sich zurechtgefunden?**
 
-Menschen mögen keine Veränderungen und als ich mit 20 Jahren erblindete, stand ich dann da mit einer Persönlichkeit, die sich über die Jahre hinweg geformt hatte. Zuerst war ich sehr verunsichert, ich wusste nicht, wie ich auf Menschen wirkte und ich musste viele meiner Einstellungen überdenken. Viele Leute meinen, dass sich eine Blindheit anfühlt, als würde man die Augen schliessen, aber so ist es nicht. Am Anfang war vor allem die Angst das Problem. Vor dem Unfall dachte ich immer, Menschen mit einer Beeinträchtigung wären nicht vollständig und plötzlich hatte ich selbst eine Beeinträchtigung und fühlte mich nicht mehr vollkommen. Ich bin zusammengebrochen und alles in mir ist eingestürzt. Danach ging ich zu einer psychologischen Beratung und innerhalb knapp zwei Jahren konnte ich mich so annehmen, wie ich bin und dann ging alles eigentlich ziemlich gut. Ich musste lernen mit meiner Behinderung zu leben. 
+Menschen mögen keine Veränderungen und als ich mit 20 Jahren erblindete, stand ich dann da mit einer Persönlichkeit, die sich über die Jahre hinweg geformt hatte. Zuerst war ich sehr verunsichert, ich wusste nicht, wie ich auf Menschen wirkte und ich musste viele meiner Einstellungen überdenken. Viele Leute meinen, dass sich eine Blindheit anfühlt, als würde man die Augen schliessen, aber so ist es nicht. Am Anfang war vor allem die Angst das Problem. Vor dem Unfall dachte ich immer, Menschen mit einer Beeinträchtigung wären nicht vollständig und plötzlich war ich selbst davon betroffen und fühlte mich nicht mehr vollkommen. Ich bin zusammengebrochen und alles in mir ist eingestürzt. Danach ging ich zu einer psychologischen Beratung und innerhalb von knapp zwei Jahren konnte ich mich so annehmen, wie ich bin und dann ging alles eigentlich ziemlich gut. Ich musste lernen, mit meiner Behinderung zu leben. 
 
 > «Ich dachte, ich müsste viel besser oder gescheiter sein als alle anderen und alles viel schneller machen, damit ich wieder ein vollständiger Mensch bin.» (Alexander Wyssmann)
 
