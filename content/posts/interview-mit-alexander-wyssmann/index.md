@@ -1,5 +1,5 @@
 +++
-title = "«Ich bin trotzdem voller Bilder»"
+title = "Ich bin trotzdem voller Bilder"
 date = "2024-02-26"
 draft = true
 pinned = false
