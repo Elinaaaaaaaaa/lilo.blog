@@ -14,6 +14,8 @@ description = ""
 
 Elina Stähli, Carla Guggisberg
 
+
+
 ![Von aussen kaum erkennbar – das Blindenmuseum in Zollikofen (Bild: Elina Stähli)](blindenmuseum.jpg)
 
 Rostbraun gefärbt, kaum Fenster, das moderne Gebäude passt nicht ins Bild. Im ersten Augenblick erinnert es eher an einen Lagerraum, eine Notunterkunft oder an einen Kindergarten. Doch wer einen Blick ins Innere des Gebäudes wirft, merkt bald, dass es sich um ein Museum handelt. Zwischen Wohnhäusern versteckt und umgeben von Bäumen und Wiese findet das Schweizerische Blindenmuseum in Zollikofen seinen Platz. Ein Museum etwas anderer Art: Teure Gemälde, Skulpturen oder Diamanten hinter Glaswänden sind nicht zu finden. Stattdessen gestaltet das Museum einen Ort, an dem Berühren erlaubt ist und Barrierefreiheit als Selbstverständlichkeit gilt. Nach dem Leitsatz «anders sehen», wird den Museumsbesuchenden das Thema Blindheit sichtbar gemacht und ein Verständnis für Menschen, die nicht oder nur eingeschränkt sehen können, vermittelt.
@@ -31,8 +33,6 @@ Heute arbeitet Alexander Wyssmann an der Blindenschule in Zollikofen, ganz in de
 Der dunkelblonde Musiker absolvierte später mit grosser Freude ein Klavierstudium an der Haute École de Musique in Lausanne. Im Jahr 2005 gründete er mit zwei Freunden die Band “twilight- trio“. Ein bewusst gewählter Name mit spezieller Bedeutung. «Denn viele Menschen glauben», erläutert Alexander, «als blinde Person lebt man im Dunkeln, aber das ist nicht so, man lebt eher im Zwielicht.» Mit seinen Bandmitgliedern spielt er selbst komponierte Musik, gibt Konzerte und veröffentlicht eigene Alben. Er wählte das Genre Jazz aus, da ihm dieser Musikstil einen Rahmen vorgibt, indem er sich frei entfalten und bewegen kann. Die klassische Musik wäre ihm zu strukturiert und zu eng. Sobald sich Alexander Wyssmann an sein Klavier setzt, tanzen seine Finger geschickt über die Klaviertasten und nichts könnte auf seine Blindheit hindeuten.
 
 > «Blinde Menschen leben nicht, wie viele glauben, in der Finsternis, sondern im Zwielicht.» (Alexander Wyssmann)
-
-
 
 ![Alexander Wyssmann mit seinem treuen Begleiter Garrit. (Bild: Elina Stähli)](alexander-wyssmann.jpg)
 
