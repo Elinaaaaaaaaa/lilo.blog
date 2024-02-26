@@ -44,7 +44,7 @@ Die Entwicklung von 200 Jahren Blindenpädagogik wird mit vielen Ausstellungsobj
 
 {{<box>}}
 
-Das Schweizerische Blindenmuseum in Zollikofen ist aus einer grossen Sammlung entstanden, welche bis zum 18. Jahrhundert zurückreicht. Im Jahr 2012 wurde die Ausstellung «anders sehen» eröffnet und seit Ende November 2020, ist das Blindenmuseum im neuen Pavillon anzutreffen. Der spannende Lernort vermittelt nicht nur Wissen, sondern ermöglicht auch Selbsterfahrungen mit allen Sinnen. Ein Audioerlebnis gibt Einblicke in das Leben von Betroffenen. Das Blindenmuseum besteht aus vier einzigarten Räumen. Über einen Audioguide wird weiteres Wissen und nützliche Informationen vermittelt. 
+Das Schweizerische Blindenmuseum in Zollikofen ist aus einer grossen Sammlung entstanden, die bis zum 18. Jahrhundert zurückreicht. Im Jahr 2012 wurde die Ausstellung «anders sehen» eröffnet und seit Ende November 2020, ist das Blindenmuseum im neuen Pavillon anzutreffen. Der spannende Lernort vermittelt nicht nur Wissen, sondern ermöglicht auch Selbsterfahrungen mit allen Sinnen. Ein Audioerlebnis gibt Einblicke in das Leben von Betroffenen. Das Blindenmuseum besteht aus vier einzigarten Räumen. Über einen Audioguide wird weiteres Wissen und nützliche Informationen vermittelt. 
 Das Blindenmuseum ist rund vier Mal monatlich geöffnet, jeweils am Mittwoch- und Sonntagnachmittag. Auf Anfrage öffnet das Museum für Schulklassen und Studierende auch ausserhalb der Öffnungszeiten. 
 Im November 2023 hat das Museum den «Prix de l’accessibilité» gewonnen und wurde im Oktober 2023 für den «Prix Zolli» nominiert. Der Entscheid über den Gewinn wird im März 2024 gefällt. Ausserdem ist das Blindenmuseum am 15. März 2024 zu Gast an der Museumsnacht in Bern.
 
