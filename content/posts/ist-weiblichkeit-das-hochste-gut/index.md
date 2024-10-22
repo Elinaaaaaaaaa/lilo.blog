@@ -3,6 +3,7 @@ title = "Ist Weiblichkeit das höchste Gut?"
 date = "2024-10-23"
 draft = false
 pinned = false
+image = "bild_helvetias-tochter.webp"
 +++
 Um zu verstehen, warum gleicher Lohn für gleichwertige Arbeit noch immer keine Selbstverständlichkeit ist, braucht es einen Blick zurück. Vor drei Jahren feierte die Schweiz 50 Jahre Frauenstimm- und Wahlrecht. Doch dieses Erlangen war ein jahrelanger Kampf. Über diesen Kampf erfährt man im Buch Helvetias Töchter von Nadine A. Brügger, das acht literarische Geschichten enthält, die stark in die historische Realität eingebettet sind. Die verschiedenen Figuren stammen aus unterschiedlichen Zeitaltern und Gesellschaftsschichten. Früher war es schwierig, sich von Stereotypen zu lösen. Ein dominantes Verhaltensmuster hat sich über Jahre tief in den Köpfen der Menschen verankert: das klassische Rollenbild von Mann und Frau. In Helvetias Töchter wird das Thema der Emanzipation facettenreich beleuchtet. Unabhängig und frei zu sein, waren Wünsche vieler Frauen. Die Gesellschaft war gespalten. Weiblichkeit und Männlichkeit waren Begriffe mit genauen Bedeutungen. „Durch Emanzipation verliert die Frau ihre Weiblichkeit. Was kann einer Frau Schlimmeres passieren?“ Dieses Zitat stammt von Sophia Loren, einer italienischen Filmschauspielerin. Doch da stellt sich die Frage, ist Weiblichkeit das höchste Gut?
 
